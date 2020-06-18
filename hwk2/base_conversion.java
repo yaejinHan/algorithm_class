@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class hwk2_base_conversion {
+public class base_conversion {
 	
 	static Scanner sc = new Scanner(System.in);
 
