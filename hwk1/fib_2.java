@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class hwk1_fib_2 {
+public class fib_2 {
 
 	public static void main(String[] args) {			
 
