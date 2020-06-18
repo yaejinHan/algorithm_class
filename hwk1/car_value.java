@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 
-public class hwk1_car_value {
+public class car_value {
 	
 	static Scanner sc = new Scanner(System.in);
 
