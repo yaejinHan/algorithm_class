@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class hwk1_add_2 {
+public class add_2 {
 
 	public static void main(String[] args) {
 		long a,b;
