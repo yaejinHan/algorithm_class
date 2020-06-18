@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class hwk1_rod_sculpter {
+public class rod_sculpter {
 	
 	static Scanner sc = new Scanner(System.in);
 
