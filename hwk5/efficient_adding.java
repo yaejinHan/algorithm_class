@@ -27,7 +27,6 @@ public class efficient_adding {
         long[] sumTable = new long[(int) n];
 
         for (int i = 1; i <= n; i++) {
-        //    if (Integer.parseInt(input[i]) == 0) continue;
             q.add(Long.parseLong(input[i]));
         }
 
