@@ -18,9 +18,6 @@ public class awesome_number {
 		
 		int N = sc.nextInt();
 	
-		//ArrayList<Boolean> pLst = new ArrayList<Boolean>(Arrays.asList(new Boolean[N+1]));
-		//Collections.fill(pLst, Boolean.TRUE);
-		
 		boolean[] pLst = new boolean[N+1];
 		Arrays.fill(pLst, true);
 		
@@ -31,26 +28,18 @@ public class awesome_number {
 		
 		pLst[0] = false;
 		pLst[1] = false;
-		//pLst.set(0, false);
-	//	pLst.set(1, false);
-		
 
 		int cnt = 0;
 		for (int i = 2; i <= N; i++) {
 			
 			if (pLst[i] == true) {
-			//if (pLst.get(i) == true) {
 				
 				
 				if (i % 10 == 1) {
-			//		System.out.println(i);
 					cnt++;
 				}
 				for (int j=i+i; j <= N; j += i) {
-				//	if (j % i == 0) {
 						pLst[j] = false;
-						//pLst.set(j, false);
-					//} 
 				}
 			}
 			
