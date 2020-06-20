@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class kou_sort {
 	
 	
 	/*  implemented merge sort after class discussion for optimized performance
