@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class party_fee {
 	
 	   /* used DisjointUnionSets code written in geeksforgeeks as a helper function for this problem
         the code can be found here - https://www.geeksforgeeks.org/disjoint-set-data-structures/     */
