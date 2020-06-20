@@ -6,7 +6,7 @@ public class Main {
 	
 	/*  implemented merge sort after class discussion for optimized performance
 	    referenced GeeksForGeeks page to solve this problem
-      the code can be found here - https://www.geeksforgeeks.org/counting-inversions/   */
+            the code can be found here - https://www.geeksforgeeks.org/counting-inversions/   */
 	
 	
 	
